@@ -1,4 +1,4 @@
-# OSDCloud
+### OSDCloud
 
 Một dự án nho nhỏ từ [CoreSystem](https://coresystem.vn) với mong muốn hỗ trợ anh em IT cài đặt Windows 11 chuẩn ngành cho nhu cầu doanh nghiệp với các tiêu chí
 
@@ -35,14 +35,6 @@ Phù hợp cho đa dạng thiết bị phần cứng từ các công ty như HP,
 **Giao diện chính**
 
 ![Bootscreen](Resources/main-system.webp "Boot screen")
-
-
-**Demo video**
-
-Toàn bộ quá trình cài đặt chỉ khoảng 25 phút. Thực sự ấn tượng phải không?
-
-
-https://github.com/user-attachments/assets/000f333a-9fd0-4fff-a8f1-750a3c13c7d2
 
 
 
