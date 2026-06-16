@@ -1,0 +1,1 @@
+Tuy thuoc theo ban build he thong OSDCloud ma co the copy SetupFiles vao o dia goc cua boot.wim (PXE mode) hoac copy vao o dia goc cua USB/DVD

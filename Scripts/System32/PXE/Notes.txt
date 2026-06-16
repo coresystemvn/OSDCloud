@@ -1,0 +1,1 @@
+Thay the next-step.ps1 phien ban boot USB/DVD bang phien ban nay => ly do thay doi logic boot. He thong boot PXE chi load boot.wim => can tich hop thu muc SetupFiles vao thu muc goc WinPE => next-step.ps1 update logic moi nay
