@@ -38,7 +38,9 @@ Tham khảo mục [WIKI](https://github.com/coresystemvn/OSDCloud/wiki) của re
 
 ![Bootscreen](Resources/main-system.webp "Boot screen")
 
+**Video demo**
 
+https://coresystem.vn/images/blog/vid.mp4
 
 
 
