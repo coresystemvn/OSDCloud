@@ -17,7 +17,7 @@ Tham khảo mục [WIKI](https://github.com/coresystemvn/OSDCloud/wiki) của re
 
 
 
-****🔰 Test trong môi trường business 🔰****
+****🔰 Test case trong môi trường business 🔰****
 
 
 ✅ Cài đặt OS, đặt password local admin, rename computer, join active directory domain, áp policy (OK)
@@ -25,6 +25,13 @@ Tham khảo mục [WIKI](https://github.com/coresystemvn/OSDCloud/wiki) của re
 ✅ Cài đặt OS, đặt password local admin, rename computer, join EntraID, bật Bitlocker lưu trữ recovery key online (OK)
 
 ✅ Hỗ trợ boot từ USB/DVD và cả hệ thống PXE chuyên dụng ví dụ WDS (Windows Deployment Services)
+
+✅ Multidrive hoạt động tốt trong backup-restore disk/partition có mã hóa Bitlocker trong môi trường PE
+
+✅ Giải mã ổ đĩa mã hóa bitlocker để thao tác với tập tin bằng Explorer++ thông qua
+```
+manage-bde -Unlock C: -RecoveryPassword 'dãy-48-ký-tự'
+```
 
 
 🚨 ****Ghi chú khác**** 🚨
